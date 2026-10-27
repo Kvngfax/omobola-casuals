@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "burgundy-boss-set",
+    "name": "Burgundy Boss Set",
+    "price": 17000,
+    "category": "sets",
+    "description": "A statement three-piece outfit featuring a white shirt, burgundy wide-leg trousers, a matching tie and a structured waist detail.",
+    "images": [
+      { "src": "/outfits/burgundy-boss-set.png", "alt": "Burgundy Boss Set on a mannequin: white shirt, burgundy tie, corset belt and wide-leg trousers" },
+      { "src": "/outfits/mira-set-2.png", "alt": "Mira Set on a mannequin, side view" },
+      { "src": "/outfits/mira-set-2.png", "alt": "Close-up of the Mira Set lattice collar" }
+    ],
+    "featured": true,
+    "available": true
+  },
+  {
+    "slug": "mira-set",
+    "name": "Mira Set",
+    "price": 35000,
+    "category": "sets",
+    "description": "A beautiful pink modest gown-and-trouser set designed for an elegant, graceful look.",
+    "images": [
+      { "src": "/outfits/mira-set.png", "alt": "Mira Set on a mannequin: pink long-sleeve gown with lattice collar and split panels over matching pink trousers" }
+    ],
+    "featured": true,
+    "available": true
+  },
+  {
+    "slug": "wine-luxe",
+    "name": "Wine Luxe",
+    "price": 16000,
+    "category": "gowns",
+    "description": "An elegant wine gown featuring delicate bead detailing around the neckline and sleeve tips for a refined, classy finish.",
+    "images": [
+      { "src": "/outfits/wine-luxe.png", "alt": "Wine Luxe on a mannequin: fitted wine-colored dress with bell sleeves and pearl detailing at the neckline and sleeve tips" }
+    ],
+    "featured": true,
+    "available": true
+  },
+  {
+    "slug": "stripe-wrap-top",
+    "name": "Stripe Wrap Top",
+    "price": 9000,
+    "category": "tops",
+    "description": "A stylish striped shirt featuring a flattering wrap design and an asymmetrical hem. Perfect for a chic casual look.",
+    "images": [
+      { "src": "/outfits/stripe-wrap-top.png", "alt": "Stripe Wrap Top on a mannequin: pink and white striped wrap shirt styled with dark denim trousers" }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "ankara-bloom-kaftan",
+    "name": "Ankara Bloom Kaftan",
+    "price": 18000,
+    "category": "kaftans",
+    "description": "A beautiful blue kaftan with vibrant Ankara appliqué details, combining comfort with a bold, stylish finish.",
+    "images": [
+      { "src": "/outfits/ankara-bloom-kaftan.png", "alt": "Ankara Bloom Kaftan on a mannequin: sky-blue kaftan with colorful round Ankara appliqué patches on the chest" }
+    ],
+    "featured": true,
+    "available": true
+  },
+  {
+    "slug": "rust-ease-set",
+    "name": "Rust Ease Set",
+    "price": 17000,
+    "category": "sets",
+    "description": "A comfortable matching top and wide-leg trouser set with a simple collar for effortless everyday style.",
+    "images": [
+      {
+        "src": "/outfits/rust-ease-set.png",
+        "alt": "Rust Ease Set on a mannequin: rust-brown short-sleeve collared top with matching wide-leg trousers"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "mono-cargo-pants",
+    "name": "Mono Cargo Pants",
+    "price": 6500,
+    "category": "trousers",
+    "description": "Bold black-and-white patterned cargo trousers with a relaxed fit, perfect for pairing with simple tops.",
+    "images": [{ "src": "/outfits/mono-cargo-pants.png", "alt": "Mono Cargo Pants on a mannequin: black wide-leg cargo trousers with a large white X and O print and a drawstring waist" }],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "ivory-lounge-set",
+    "name": "Ivory Lounge Set",
+    "price": 18000,
+    "category": "dresses",
+    "description": "A chic three-piece set featuring a bralette, shorts and a matching button-up shirt for a relaxed, stylish look.",
+    "images": [
+      {
+        "src": "/outfits/ivory-lounge-set.png",
+        "alt": "Ivory Lounge Set on a mannequin: three-piece set featuring a bralette, shorts and a matching button-up shirt"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "ruby-bloom-dress",
+    "name": "Ruby Bloom Dress",
+    "price": 15000,
+    "category": "dresses",
+    "description": "A beautiful printed dress featuring a flattering V-neckline, ruched sleeves, a fitted smocked waist and a flowy skirt for a feminine, stylish look.",
+    "images": [
+      {
+        "src": "/outfits/ruby-bloom-dress.png",
+        "alt": "Ruby Bloom Dress on a mannequin: pink and black printed dress with V-neckline, ruched sleeves, smocked waist and flared skirt"
+      }
+    ],
+    "featured": false,
+    "available": true
+  }
+]
