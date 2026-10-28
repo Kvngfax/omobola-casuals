@@ -6,9 +6,18 @@
     "category": "sets",
     "description": "A statement three-piece outfit featuring a white shirt, burgundy wide-leg trousers, a matching tie and a structured waist detail.",
     "images": [
-      { "src": "/outfits/burgundy-boss-set.png", "alt": "Burgundy Boss Set on a mannequin: white shirt, burgundy tie, corset belt and wide-leg trousers" },
-      { "src": "/outfits/mira-set-2.png", "alt": "Mira Set on a mannequin, side view" },
-      { "src": "/outfits/mira-set-2.png", "alt": "Close-up of the Mira Set lattice collar" }
+      {
+        "src": "/outfits/burgundy-boss-set.png",
+        "alt": "Burgundy Boss Set on a mannequin: white shirt, burgundy tie, corset belt and wide-leg trousers"
+      },
+      {
+        "src": "/outfits/burgundy-boss-set-2.png",
+        "alt": "Burgundy Boss Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/burgundy-boss-set-3.png",
+        "alt": "Close-up of the Burgundy Boss Set corset belt and tie"
+      }
     ],
     "featured": true,
     "available": true
@@ -20,7 +29,18 @@
     "category": "sets",
     "description": "A beautiful pink modest gown-and-trouser set designed for an elegant, graceful look.",
     "images": [
-      { "src": "/outfits/mira-set.png", "alt": "Mira Set on a mannequin: pink long-sleeve gown with lattice collar and split panels over matching pink trousers" }
+      {
+        "src": "/outfits/mira-set.png",
+        "alt": "Mira Set on a mannequin: pink long-sleeve gown with lattice collar and split panels over matching pink trousers"
+      },
+      {
+        "src": "/outfits/mira-set-2.png",
+        "alt": "Mira Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/mira-set-3.png",
+        "alt": "Close-up of the Mira Set lattice collar and studded bodice"
+      }
     ],
     "featured": true,
     "available": true
@@ -32,7 +52,18 @@
     "category": "gowns",
     "description": "An elegant wine gown featuring delicate bead detailing around the neckline and sleeve tips for a refined, classy finish.",
     "images": [
-      { "src": "/outfits/wine-luxe.png", "alt": "Wine Luxe on a mannequin: fitted wine-colored dress with bell sleeves and pearl detailing at the neckline and sleeve tips" }
+      {
+        "src": "/outfits/wine-luxe.png",
+        "alt": "Wine Luxe on a mannequin: fitted wine-colored dress with bell sleeves and pearl detailing at the neckline and sleeve tips"
+      },
+      {
+        "src": "/outfits/wine-luxe-2.png",
+        "alt": "Wine Luxe on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/wine-luxe-2.png",
+        "alt": "Close-up of the Wine Luxe pearl neckline and beaded sleeve tips"
+      }
     ],
     "featured": true,
     "available": true
@@ -44,7 +75,18 @@
     "category": "tops",
     "description": "A stylish striped shirt featuring a flattering wrap design and an asymmetrical hem. Perfect for a chic casual look.",
     "images": [
-      { "src": "/outfits/stripe-wrap-top.png", "alt": "Stripe Wrap Top on a mannequin: pink and white striped wrap shirt styled with dark denim trousers" }
+      {
+        "src": "/outfits/stripe-wrap-top.png",
+        "alt": "Stripe Wrap Top on a mannequin: pink and white striped wrap shirt styled with dark denim trousers"
+      },
+      {
+        "src": "/outfits/stripe-wrap-top-2.png",
+        "alt": "Stripe Wrap Top on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/stripe-wrap-top-3.png",
+        "alt": "Close-up of the Stripe Wrap Top stripe fabric and wrap front"
+      }
     ],
     "featured": false,
     "available": true
@@ -56,7 +98,18 @@
     "category": "kaftans",
     "description": "A beautiful blue kaftan with vibrant Ankara appliqué details, combining comfort with a bold, stylish finish.",
     "images": [
-      { "src": "/outfits/ankara-bloom-kaftan.png", "alt": "Ankara Bloom Kaftan on a mannequin: sky-blue kaftan with colorful round Ankara appliqué patches on the chest" }
+      {
+        "src": "/outfits/ankara-bloom-kaftan.png",
+        "alt": "Ankara Bloom Kaftan on a mannequin: sky-blue kaftan with colorful round Ankara appliqué patches on the chest"
+      },
+      {
+        "src": "/outfits/ankara-bloom-kaftan-2.png",
+        "alt": "Ankara Bloom Kaftan on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/ankara-bloom-kaftan-3.png",
+        "alt": "Close-up of the Ankara Bloom Kaftan appliqué patches"
+      }
     ],
     "featured": true,
     "available": true
@@ -71,6 +124,14 @@
       {
         "src": "/outfits/rust-ease-set.png",
         "alt": "Rust Ease Set on a mannequin: rust-brown short-sleeve collared top with matching wide-leg trousers"
+      },
+      {
+        "src": "/outfits/rust-ease-set-2.png",
+        "alt": "Rust Ease Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/rust-ease-set-3.png",
+        "alt": "Close-up of the Rust Ease Set collar and ribbed fabric"
       }
     ],
     "featured": false,
@@ -82,7 +143,20 @@
     "price": 6500,
     "category": "trousers",
     "description": "Bold black-and-white patterned cargo trousers with a relaxed fit, perfect for pairing with simple tops.",
-    "images": [{ "src": "/outfits/mono-cargo-pants.png", "alt": "Mono Cargo Pants on a mannequin: black wide-leg cargo trousers with a large white X and O print and a drawstring waist" }],
+    "images": [
+      {
+        "src": "/outfits/mono-cargo-pants.png",
+        "alt": "Mono Cargo Pants on a mannequin: black wide-leg cargo trousers with a large white X and O print and a drawstring waist"
+      },
+      {
+        "src": "/outfits/mono-cargo-pants-2.png",
+        "alt": "Mono Cargo Pants on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/mono-cargo-pants-3.png",
+        "alt": "Close-up of the Mono Cargo Pants X and O print and drawstring waist"
+      }
+    ],
     "featured": false,
     "available": true
   },
@@ -90,12 +164,20 @@
     "slug": "ivory-lounge-set",
     "name": "Ivory Lounge Set",
     "price": 18000,
-    "category": "dresses",
+    "category": "sets",
     "description": "A chic three-piece set featuring a bralette, shorts and a matching button-up shirt for a relaxed, stylish look.",
     "images": [
       {
         "src": "/outfits/ivory-lounge-set.png",
         "alt": "Ivory Lounge Set on a mannequin: three-piece set featuring a bralette, shorts and a matching button-up shirt"
+      },
+      {
+        "src": "/outfits/ivory-lounge-set-2.png",
+        "alt": "Ivory Lounge Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/ivory-lounge-set-3.png",
+        "alt": "Close-up of the Ivory Lounge Set bralette and shirt"
       }
     ],
     "featured": false,
@@ -111,6 +193,14 @@
       {
         "src": "/outfits/ruby-bloom-dress.png",
         "alt": "Ruby Bloom Dress on a mannequin: pink and black printed dress with V-neckline, ruched sleeves, smocked waist and flared skirt"
+      },
+      {
+        "src": "/outfits/ruby-bloom-dress-2.png",
+        "alt": "Ruby Bloom Dress on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/ruby-bloom-dress-3.png",
+        "alt": "Close-up of the Ruby Bloom Dress smocked waist and ruched sleeve"
       }
     ],
     "featured": false,
