@@ -61,7 +61,7 @@
         "alt": "Wine Luxe on a mannequin, side view"
       },
       {
-        "src": "/outfits/wine-luxe-2.png",
+        "src": "/outfits/wine-luxe-3.png",
         "alt": "Close-up of the Wine Luxe pearl neckline and beaded sleeve tips"
       }
     ],
@@ -201,6 +201,144 @@
       {
         "src": "/outfits/ruby-bloom-dress-3.png",
         "alt": "Close-up of the Ruby Bloom Dress smocked waist and ruched sleeve"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "chic-trio-set",
+    "name": "Chic Trio Set",
+    "price": 17000,
+    "category": "sets",
+    "description": "A stylish three-piece set featuring a jacket, shorts and an inner top for a chic, coordinated look.",
+    "images": [
+      {
+        "src": "/outfits/chic-trio-set.png",
+        "alt": "Chic Trio Set on a mannequin: open brown jacket over a smocked top with matching drawstring shorts"
+      },
+      {
+        "src": "/outfits/chic-trio-set-2.png",
+        "alt": "Chic Trio Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/chic-trio-set-3.png",
+        "alt": "Close-up of the Chic Trio Set smocked top and drawstring shorts"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "emerald-grace-gown",
+    "name": "Emerald Grace Gown",
+    "price": 15000,
+    "category": "gowns",
+    "description": "An elegant green gown featuring delicate bead detailing at the top of the sleeves for a classy, refined finish.",
+    "images": [
+      {
+        "src": "/outfits/emerald-grace-gown.png",
+        "alt": "Emerald Grace Gown on a mannequin: long-sleeve fitted green gown with beaded detailing at the cuffs"
+      },
+      {
+        "src": "/outfits/emerald-grace-gown-2.png",
+        "alt": "Emerald Grace Gown on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/emerald-grace-gown-3.png",
+        "alt": "Close-up of the Emerald Grace Gown beaded sleeve detail"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "royal-charm-gown",
+    "name": "Royal Charm Gown",
+    "price": 15000,
+    "category": "gowns",
+    "description": "An elegant royal blue gown designed to make a classy, beautiful statement.",
+    "images": [
+      {
+        "src": "/outfits/royal-charm-gown.png",
+        "alt": "Royal Charm Gown on a mannequin: royal blue gown with short sleeves, a keyhole neckline and a scarf collar"
+      },
+      {
+        "src": "/outfits/royal-charm-gown-2.png",
+        "alt": "Royal Charm Gown on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/royal-charm-gown-3.png",
+        "alt": "Close-up of the Royal Charm Gown keyhole neckline and scarf collar"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "zuri-gown",
+    "name": "Zuri Gown",
+    "price": 12000,
+    "category": "gowns",
+    "description": "A beautiful, colorful gown paired with a matching scarf for an elegant and coordinated look.",
+    "images": [
+      {
+        "src": "/outfits/zuri-gown.png",
+        "alt": "Zuri Gown on a mannequin: purple and orange marbled-print gown with bell sleeves and a matching scarf"
+      },
+      {
+        "src": "/outfits/zuri-gown-2.png",
+        "alt": "Zuri Gown on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/zuri-gown-3.png",
+        "alt": "Close-up of the Zuri Gown marbled print and scarf"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "amber-grace-set",
+    "name": "Amber Grace Set",
+    "price": 25000,
+    "category": "sets",
+    "description": "A beautiful Adire two-piece set featuring a smocked waist, flowing skirt and feminine ruffle details for an elegant, stylish look.",
+    "images": [
+      {
+        "src": "/outfits/amber-grace-set.png",
+        "alt": "Amber Grace Set on a mannequin: orange Adire print top with a smocked waist and ruffle over a tiered flowing skirt"
+      },
+      {
+        "src": "/outfits/amber-grace-set-2.png",
+        "alt": "Amber Grace Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/amber-grace-set-3.png",
+        "alt": "Close-up of the Amber Grace Set Adire print and smocked waist"
+      }
+    ],
+    "featured": false,
+    "available": true
+  },
+  {
+    "slug": "sky-breeze-set",
+    "name": "Sky Breeze Set",
+    "price": 18000,
+    "category": "sets",
+    "description": "A stylish sky-blue two-piece set designed for a fresh, elegant and effortlessly chic look.",
+    "images": [
+      {
+        "src": "/outfits/sky-breeze-set.png",
+        "alt": "Sky Breeze Set on a mannequin: sky-blue button-up shirt with matching wide-leg trousers"
+      },
+      {
+        "src": "/outfits/sky-breeze-set-2.png",
+        "alt": "Sky Breeze Set on a mannequin, side view"
+      },
+      {
+        "src": "/outfits/sky-breeze-set-3.png",
+        "alt": "Close-up of the Sky Breeze Set shirt collar and fabric"
       }
     ],
     "featured": false,

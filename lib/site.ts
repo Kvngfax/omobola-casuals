@@ -4,7 +4,7 @@ export const site = {
   slogan: "Style made simple…",
   description:
     "Custom-made outfits that are simple, classy and comfortable. Based in Lagos, serving customers nationwide.",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://YOUR-DOMAIN.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://omobola-casuals.vercel.app",
   location: "Lagos, Nigeria",
   whatsappNumber: "2347052923771", // international format, no + or leading 0
   whatsappDisplay: "0705 292 3771",

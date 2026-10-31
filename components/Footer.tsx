@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 flex flex-wrap justify-between gap-2 border-t border-brand pt-5 text-[13px] text-sand">
-          <span>© 2026 {site.name}. All rights reserved.</span>
+          <span>© 2026 {site.name}. All rights reserved.</span>{" "}
           <span>{site.location}</span>
         </div>
       </div>
